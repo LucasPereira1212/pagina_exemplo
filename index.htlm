@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>teste</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>TITULO</h1>
+
+<div class="secao1">
+<p class="Paragrafo"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Et neque
+     fugit, dolores, quibusdam illum molestiae voluptates nobis ducimus 
+     culpa voluptatem enim quasi 
+    animi porro sunt maxime doloremque repellat, dolorem praesentium!</p>
+</div>
+
+<div class="secao2">
+    <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt voluptatem a 
+        eum? Fugit labore iste sed vitae laborum facilis, voluptas delectus voluptatem 
+        sequi adipisci magni voluptates esse repellendus deserunt! Laborum!</h2>
+
+
+</body>
+</html>
